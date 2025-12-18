@@ -63,4 +63,9 @@ Currently I work as a web developer at a startup, building products, automating 
 
 ---
 
+<div>
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GianBarbosa&show_icons=true&count_private=true&border=true&border_color=673de6&title_color=673de6&icon_color=ffffff&text_color=673de6&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="37.5%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianBarbosa&layout=compact&border=true&border_color=673de6&title_color=673de6&text_color=673de6&bg_color=0d1117&tittle_size=22" />
+</div>
+
 
