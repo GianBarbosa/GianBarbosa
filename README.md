@@ -1,6 +1,6 @@
 ## 👋 Hey! I'm Gian Barbosa
 
-I'm a full-stack developer who loves solving problems through code.  
+I'm a backend developer who loves solving problems through code.  
 I'm not the strongest when it comes to design or soft-skills, but I thrive when learning hard technical concepts and turning them into real solutions. I pick up new technologies quickly and genuinely enjoy understanding how things work under the hood.
 
 Although I didn't complete my graduation, I did scientific research related to AI — and the field still fascinates me today. I also enjoy sharing what I learn, and I’ve often been told I should be a teacher thanks to the clarity and patience I bring when explaining complex topics.
